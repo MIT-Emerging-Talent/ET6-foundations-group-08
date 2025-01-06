@@ -19,5 +19,3 @@ if __name__ == "__main__":
     test_cases = ["madam", "hello", "RaceCar"]
     for test in test_cases:
         print(f"Input: {test}, Output: {is_palindrome(test)}")
-
-        
