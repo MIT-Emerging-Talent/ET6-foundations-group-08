@@ -1,6 +1,3 @@
-from typing import List
-
-
 def find_largest_number(numbers: List[int]) -> int:
     """
     Finds the largest number in a list of integers.
