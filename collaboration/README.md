@@ -2,8 +2,9 @@
 
 ---
 
-Our group is committed to fostering a collaborative environment that values trust,
-open communication, mutual respect, and the celebration of diverse perspectives.
+Our group is committed to fostering a collaborative environment that values
+trust, open communication, mutual respect, and the celebration of diverse
+perspectives.
 
 ---
 
@@ -44,7 +45,8 @@ open communication, mutual respect, and the celebration of diverse perspectives.
   , and successes.
 - Show empathy and actively listen during discussions.
 - Celebrate both individual and team achievements.
-- Address trust issues respectfully and take steps to rebuild confidence if broken.
+- Address trust issues respectfully and take steps to rebuild confidence if
+  broken.
 
 ---
 
@@ -53,7 +55,8 @@ open communication, mutual respect, and the celebration of diverse perspectives.
 - Ensure everyone has an opportunity to speak and contribute.
 - Avoid interrupting or dominating discussions.
 - Critique ideas, not people, and provide constructive feedback.
-- Show appreciation for all contributions and avoid dismissing ideas prematurely.
+- Show appreciation for all contributions and avoid dismissing ideas
+  prematurely.
 
 ---
 
@@ -69,7 +72,8 @@ open communication, mutual respect, and the celebration of diverse perspectives.
 
 - Revisit group norms periodically (preferably, monthly) to adapt to new
   challenges or feedback.
-- Allow flexibility for unforeseen circumstances but communicate changes promptly.
+- Allow flexibility for unforeseen circumstances but communicate changes
+  promptly.
 
 ---
 
@@ -90,4 +94,5 @@ open communication, mutual respect, and the celebration of diverse perspectives.
 
 ---
 
-Let’s stay committed to these norms to ensure a productive and enjoyable collaboration.
+Let’s stay committed to these norms to ensure a productive and enjoyable
+collaboration.
