@@ -10,7 +10,7 @@ Author: Emmanuel
 
 import unittest
 
-from ..06_find_the_maximum_of_two_numbers import find_the_maximum_of_two_numbers
+from solutions.06_find_the_maximum_of_two_numbers import find_the_maximum_of_two_numbers
 
 
 class TestFindMaximum(unittest.TestCase):

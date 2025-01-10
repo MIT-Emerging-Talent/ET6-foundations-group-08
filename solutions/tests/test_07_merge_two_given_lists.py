@@ -12,7 +12,7 @@ Created on 2025-01-08
 
 import unittest
 
-from ..07_merge_two_given_lists import merge_two_given_lists
+from solutions.07_merge_two_given_lists import merge_two_given_lists
 
 
 class TestMergeTwoGivenLists(unittest.TestCase):
