@@ -1,4 +1,4 @@
-## Team Retrospective
+# Team Retrospective
 
 This project has been an inspiring journey for our team, filled with
 opportunities to learn, collaborate, and grow. As we reflect, we celebrate what
@@ -6,7 +6,7 @@ worked well and identify ways to continue building on our success.
 
 ---
 
-### Stop Doing
+## Stop Doing
 
 - Overthinking solutions can make challenges seem more complex than they are.
   Embracing simplicity will allow us to move faster and more confidently.
@@ -18,7 +18,7 @@ worked well and identify ways to continue building on our success.
 
 ---
 
-### Continue Doing
+## Continue Doing
 
 - Collaborative reviews have been invaluable. They helped us see challenges from
   different perspectives and strengthen our solutions.
@@ -31,7 +31,7 @@ worked well and identify ways to continue building on our success.
 
 ---
 
-### Start Doing
+## Start Doing
 
 - Structured planning before coding—like brainstorming with pseudocode or
   diagrams—will help us streamline our workflows.
@@ -48,7 +48,7 @@ worked well and identify ways to continue building on our success.
 
 ---
 
-### Lessons Learned
+## Lessons Learned
 
 - CI/CD practices are powerful tools that improve quality and efficiency.
 - Simplicity often leads to the most effective solutions.
@@ -58,7 +58,7 @@ worked well and identify ways to continue building on our success.
 
 ---
 
-### Conclusion
+## Conclusion
 
 This project has been an enriching experience for our team. By celebrating
 teamwork, staying curious, and embracing best practices, we’ve laid the
