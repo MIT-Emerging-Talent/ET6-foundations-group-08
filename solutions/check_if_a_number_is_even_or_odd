@@ -1,0 +1,15 @@
+def is_even(number):
+    """
+    Returns True if the number is even, False otherwise.
+    :param number: The number to check
+    :return: True if number is even, False if odd
+    """
+    return number % 2 == 0
+
+if __name__ == "__main__":
+    # Example test to demonstrate functionality
+    num = 4
+    if is_even(num):
+        print(f"{num} is even.")
+    else:
+        print(f"{num} is odd.")
