@@ -1,0 +1,12 @@
+Testing the function
+test_cases = [5, 0, 7, -1, 10]  # Adding a negative number to check error handling
+
+# Displaying the results
+for num in test_cases:
+    try:
+        if num < 0:
+            raise ValueError(f"Factorial is not defined for negative numbers: {num}")
+        result = calculate_factorial(num)
+        print(f"Input: {num}, Output: {result}")
+    except ValueError as e:
+        print(e)
